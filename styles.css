@@ -1,0 +1,55 @@
+body {
+    background-color: #c2bba8;
+    color: black;
+    font-family: 'Major Mono Display', monospace;
+}
+
+header {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 330%;
+}
+
+h1 {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 330%;
+}
+
+
+p {
+    font-family: 'Xanh Mono', monospace;
+    font-size: 120%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+footer {
+    background-color: #3a3b3c ;
+    color: #dce775;
+
+}
+
+
+
+h3 {
+    font-size: 200%;
+    text-align: center;
+}
+
+a:link,
+a:visited {
+  color: black;
+  padding: 1px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover,
+a:active {
+  color: #dce775;
+}
+
